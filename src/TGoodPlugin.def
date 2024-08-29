@@ -1,0 +1,4 @@
+LIBRARY TGoodPlugin.dll
+EXPORTS
+TGoodPluginInit
+TGoodPluginExit
